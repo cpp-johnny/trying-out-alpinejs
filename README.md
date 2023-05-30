@@ -1,4 +1,4 @@
-# trying-out-alpinejs
+# trying out alpinejs ❄
 trying out AlpineJS
 
 apline website: https://alpinejs.dev/start-here
